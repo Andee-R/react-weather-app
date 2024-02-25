@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import Search from "./Search";
 import "./App.css";
 
